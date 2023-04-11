@@ -1,5 +1,5 @@
-# How to use
-Execute .py file and input how many products you want to collect.
+# About
 
-# Why?
-I created this simple web scraper to put into practice what I'm learning.
+Already using this repository to upload simple projects I'm developing to learn Python :) 
+
+Kind regards, Alex.
